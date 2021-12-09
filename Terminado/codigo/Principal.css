@@ -1,0 +1,401 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1017px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 1225px;
+  height: 915px;
+  background-image: none;
+  margin: 32px auto 0 -37px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: -826px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 775px;
+  background-image: url("images/MlEspine.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 50px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 329px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  font-family: Oswald, sans-serif;
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 446px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 60px;
+  margin-left: 0;
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 2px;
+  font-weight: 600;
+  background-image: none;
+  border-style: none;
+  margin: 32px auto 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 871px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 381px;
+    height: 777px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 639px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 271px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 368px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 726px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 288px;
+    height: 739px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 489px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 165px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.4375rem;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 382px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 453px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 310px;
+    height: 738px;
+    margin-right: 26px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 734px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 0;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-1 {
+    width: 316px;
+    height: 606px;
+    margin-top: 122px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -682px;
+    margin-bottom: 40px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 462px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.75rem;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 740px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 70px 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 608px;
+  background-image: url("images/LeborGablarenn.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 304px;
+  background-image: url("images/TathalTeachtmharLeborGablarenn.jpg");
+  background-size: 110%;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 46px 30px 65px;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 304px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 31px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 23px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 29px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  background-image: none;
+  border-style: none none solid;
+  margin: 20px auto 0 29px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 724px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 300px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 300px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    width: 107px;
+    height: 24px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1324px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1024px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: auto;
+  }
+} .u-section-3 {
+  background-image: url("images/El-Libro-de-las-invasiones-y-los-irlandeses-hispanos-e1621757773842.jpg");
+  background-position: 50% 50%;
+  min-height: 756px;
+}
+
+.u-section-3 .u-group-1 {
+  width: calc(((100% - 1140px) / 2) + 513px);
+  min-height: 489px;
+  background-image: none;
+  margin: 0 auto 60px 0;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0 30px 23px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  text-align: justify;
+  margin: 1px 11px 0;
+}
+
+.u-section-3 .u-text-2 {
+  text-align: justify;
+  margin: 16px 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 623px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 650px;
+    margin-left: calc(((100% - 1140px) / 2) + 20px);
+  }
+
+  .u-section-3 .u-text-2 {
+    font-weight: bold;
+    font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 477px;
+  }
+
+  .u-section-3 .u-group-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 130px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    min-height: 358px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    min-height: 225px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 340px;
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
